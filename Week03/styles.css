@@ -1,2 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+}
