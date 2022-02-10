@@ -20,3 +20,12 @@ header h1 {
   background-position: left top;
   background-repeat: no-repeat;
 }
+
+#container {
+  margin-bottom: 30px;
+}
+
+nav {
+  float: left;
+  width: 150px;
+}
